@@ -4,4 +4,6 @@ body{
 }
 h1, p {
 	color: black;
+	ul {
+    text-align: center;
 }
