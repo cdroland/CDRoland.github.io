@@ -1,0 +1,30 @@
+
+@import url(https://fonts.googleapis.com/css?family=Cinzel);
+
+body{
+	
+text-align: center;
+
+}
+header{
+background: url("../images/sea-water-ocean-waves.jpg") no-repeat;
+background-size: cover;
+padding: 200px 0;
+
+}
+section{ 
+	background:yellow;
+	font-family: 'Cinzel';
+
+}
+h1, 
+p {
+	color: black;
+	font-family: 'Cinzel';
+	}
+	ul {
+    text-align: center;
+    width: 120px;
+    margin:auto;
+    font-family: 'Cinzel';
+}
