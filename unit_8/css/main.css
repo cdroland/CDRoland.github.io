@@ -1,19 +1,19 @@
 
 @import url(https://fonts.googleapis.com/css?family=Cinzel);
 
-body{
+body {
 	
 text-align: center;
 
 }
-header{
+header {
 background: url("../images/sea-water-ocean-waves.jpg") no-repeat;
 background-size: cover;
 padding: 200px 0;
 
 }
-section{ 
-	background:yellow;
+section { 
+	background: yellow;
 	font-family: 'Cinzel';
 
 }
@@ -25,9 +25,10 @@ p {
 	ul {
     text-align: center;
     width: 120px;
-    margin:auto;
+    margin: auto;
     font-family: 'Cinzel';
 }
+
 #left {
     background-color: violet;
     border: 1px black solid;
@@ -42,4 +43,13 @@ p {
     padding: 20px;
     float: right;   
     width: 62%;
+}
+
+.clearfix: after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
