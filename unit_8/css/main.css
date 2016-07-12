@@ -13,8 +13,13 @@ padding: 150px 0;
 
 }
 section { 
-	background: yellow;
+	background: blue;
 	font-family: 'Cormorant';
+
+}
+section { 
+    background: white;
+    font-family: 'Cormorant';
 
 }
 h1, {
