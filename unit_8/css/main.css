@@ -1,6 +1,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Cormorant+Garamond);
 @import url(https://fonts.googleapis.com/css?family=Meddon);
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
 
 body {
 	
@@ -15,12 +16,12 @@ padding: 200px 0;
 }
 section { 
     background: #B0E3FB;
-    font-family: 'Cormorant Garamond';
+    font-family: 'Rock Salt';
 
 }
 h1, {
     color:#B0E3FB;
-    font-family: 'Cormornant Garamond'
+    font-family: 'Rock Salt'
     font-size:60px;
 }
 p {
