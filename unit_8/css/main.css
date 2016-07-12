@@ -11,11 +11,12 @@ header {
 background: url("../images/blue-sea-ocean.jpg") no-repeat;
 background-size: cover;
 padding: 200px 0;
+font-size: 45px;
 
 }
 section { 
     background: #B0E3FB;
-    font-family: 'Meddon';
+    font-family: 'Cormorant Garamond';
 
 }
 h1, {
