@@ -1,5 +1,6 @@
 
 @import url(https://fonts.googleapis.com/css?family=Cormorant+Garamond);
+@import url(https://fonts.googleapis.com/css?family=Meddon);
 
 body {
 	
@@ -9,27 +10,27 @@ text-align: center;
 header {
 background: url("../images/blue-sea-ocean.jpg") no-repeat;
 background-size: cover;
-padding: 150px 0;
+padding: 200px 0;
 
 }
 section { 
     background: #B0E3FB;
-    font-family: 'Cormorant';
+    font-family: 'Meddon';
 
 }
 h1, {
-    color:#B0E3FB ;
-    font-family: 'Cormornant'
+    color:#B0E3FB;
+    font-family: 'Cormornant Garamond'
 }
 p {
 	color: black;
-	font-family: 'Cormorant';
+	font-family: 'Cormorant Garamond';
 	}
 	ul {
     text-align: center;
     width: 150px;
     margin: auto;
-    font-family: 'Cormorant';
+    font-family: 'Cormorant Garamond';
 }
 
 #left {
