@@ -14,19 +14,19 @@ padding: 200px 0;
 }
 section { 
 	background: yellow;
-	font-family: 'Cinzel';
+	font-family: 'Cormorant';
 
 }
 h1, 
 p {
 	color: white;
-	font-family: 'Cinzel';
+	font-family: 'Cormorant';
 	}
 	ul {
     text-align: center;
     width: 120px;
     margin: auto;
-    font-family: 'Cinzel';
+    font-family: 'Cormorant';
 }
 
 #left {
